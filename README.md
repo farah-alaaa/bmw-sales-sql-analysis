@@ -1,7 +1,7 @@
 # BMW Car Sales Data Analysis - SQL Project
 
 ## Overview
-This repository contains **SQL queries and analysis** for BMW car sales data using Microsoft SQL Server. The purpose of this project is to explore and analyze the BMW sales dataset to extract meaningful insights such as total sales, top-selling models, regional performance, and yearly trends.
+This repository contains **SQL queries and analysis** for BMW car sales data using Microsoft SQL Server. The purpose of this project is to explore and analyze the BMW sales dataset to extract meaningful insights such as total sales, top selling models, regional performance, and yearly trends.
 
 The dataset used is assumed to be stored in a SQL Server database named `NTI-` with a table called `BMW_sales_data`.
 
